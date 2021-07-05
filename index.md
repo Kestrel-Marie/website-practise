@@ -28,9 +28,12 @@ Sharks are often considered the *best* type of fish.
 ### Basking Shark
 The **second** biggest type of shark.
 
-- Big mouth
-- Very safe
+- Big mouth (waha nui)
+- Very safe 
 - Dives and resurfaces
 - Filter feeder
+
+
+Ko tēnei te Basking Shark. He ika tino nui tēnei ika.
 
 ![Shark with very large open mouth. Two divers to the left and behind the shark. The shark mouth is about as wide as a diver is tall](https://user-images.githubusercontent.com/18474918/124523363-f0925480-de4a-11eb-9504-a842b9c23291.jpg)
