@@ -1,2 +1,2 @@
 # website-practise
-My practise website
+My practice website
