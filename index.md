@@ -9,7 +9,7 @@ These make up most of the fish.
 * Sunfish
   * Ocean
   * Southern
-  * Hoodwinker
+  * [Hoodwinker](Mola_tecta.html)
   * Sharptail
   * Slender
 
